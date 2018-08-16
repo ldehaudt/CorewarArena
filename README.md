@@ -1,16 +1,10 @@
 # corewar
-A reproduction of the Core War game. Including full implementation of assembly compiler, virtual machine and GUI.
+Fight the fights of your lives in this homemade corewar arena, featuring an assembeler and virtual machine with visualizing capabilities. How cool!
 
-This project was done in collaboration with my friends Liam Dehaudt and Charles Gleason at 42.
+This project was completed with Conan Wu and Charles Gleason at 42.
 
-Corewar in action (quiet mode, 4 players):
+Cool and Epic screenshot:
 ![alt text](https://github.com/conanwu777/corewar/blob/master/4.png)
-
-## Background
-
-Core War is a 1984 programming game created by D. G. Jones and A. K. Dewdney, inspired by a malicious virus written in the 80’s. To deal with the self-replicating virus, a white hat hacker invented Reaper. It was a virus designed to spread and eliminate the malware. (for more information, see https://en.wikipedia.org/wiki/Core_War)
-
-The idea was simple. You compete by designing viruses to overtake a computer. You win by protecting your own program and overwriting your opponent's programs. This is all happening on a virtual machine.
 
 ## Compiling and running
 
@@ -23,7 +17,7 @@ Run with:
 A collection of sample .s files included in `sfiles/` folder.
 
 ### Virtual Machine
-Run `make` in `visualizer/` folder. An executable will compile.
+Run `make` in `visualizer/` folder to compile.
 Run with:
 ```
 usage: ./corewar [-dump nbr_cycles] [-q]
