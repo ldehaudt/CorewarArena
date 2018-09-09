@@ -20,7 +20,7 @@ A collection of sample .s files included in `sfiles/` folder.
 Run `make` in `visualizer/` folder to compile.
 Run with:
 ```
-usage: ./corewar [-dump nbr_cycles] [-q]
+./corewar [-dump nbr_cycles] [-q]
 [[-n number] champion1.cor] [[-n number] champion2.cor]
 [[-n number] champion3.cor] [[-n number] champion4.cor]
 ```
@@ -37,7 +37,7 @@ A collection of complied champion(.cor) files included in `cor/` and `chmps/` fo
 ### Endgame
 ![alt text](https://github.com/conanwu777/corewar/blob/master/3.png)
 
-## Worrior command list
+## Warrior command list
 
 -**and:** bitwise AND over the first two arguments and store the result in a registry, which is the third argument. Opcode 0x06. Modifies the carry.
 
