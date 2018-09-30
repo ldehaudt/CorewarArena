@@ -1,5 +1,5 @@
 # corewar
-Fight the fights of your lives in this homemade corewar arena, featuring an assembeler and virtual machine with visualizing capabilities. How cool!
+Fight the fights of your life in this homemade corewar arena, featuring an assembeler and virtual machine with visualizing capabilities. How cool!
 
 This project was completed with Conan Wu and Charles Gleason at 42.
 
