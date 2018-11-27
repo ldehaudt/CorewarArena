@@ -5,8 +5,8 @@ This project was completed with Conan Wu and Charles Gleason at 42.
 
 This is a big boy, make sure you ENJOY ^-^
 
-Cool and Epic screenshot:
-![alt text](https://github.com/conanwu777/corewar/blob/master/4.png)
+Cool and Epic Video:
+[![Corewar Video](screenshots/2.png)](https://www.youtube.com/watch?v=XE8Qi0sdG0A "Corewar video")
 
 ## Compiling and running
 
